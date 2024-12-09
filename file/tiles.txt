@@ -1,0 +1,33 @@
+0. Normal Grass
+1. Grass with Blue Flower
+2. Brick Wall
+3. Plain Water
+4. Water with Orange Fish swimming to the Right
+5. Water with Pink Fish swimming to the Left
+6. Dirt
+7. Gravel Pathway
+8. Sand
+9. Normal Tree
+10. Tree with a Bee's nest
+11. Tree with a Bird's nest with a pretty blue bird
+12. AM Sign
+13. MN Sign
+14. SS Sign
+15. Ricci Sign
+16. LP Sign
+17. Lemon Case
+18. Lettuce Case
+19. Lilacs
+20. Character 1 AM
+21. Character 2 MN
+22. Character 3 LP
+23. Chicken
+24. Character 4 DP
+25. Mailbox
+26. Character 5 AL
+27. DP Farm Sign
+28. Bendsity 2 Video Game
+29. Character 6 Ms. Ricci
+30. Fake Water
+31. Wald Sign
+32. Character 7 Mr. Wald
